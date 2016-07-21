@@ -1,0 +1,23 @@
+.uno{
+	background-color: #FFFF00;
+	width: 100px;
+	height: 60px;
+	float: left;
+}
+.dos{
+	background-color: #3A81BA;
+	width: 100px;
+	height: 60px;
+	float: left;
+}
+.tres{
+	background-color: #ED2251;
+	width: 100px;
+	height: 60px;
+	float: left;
+}
+
+.padre{
+	width: 500px;
+	border: 1px solid black;
+}
